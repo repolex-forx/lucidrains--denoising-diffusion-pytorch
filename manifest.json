@@ -1,0 +1,44 @@
+{
+  "manifest_version": "1.0",
+  "org": "lucidrains",
+  "repo": "denoising-diffusion-pytorch",
+  "versions": [
+    {
+      "commit": "c8155b1dc622e3f1ef0d53dc6e5a570ca105bcec",
+      "parsed_at": "2026-10-17T08:10:30.493297+00:00",
+      "filetree": "filetree/c8155b1dc622e3f1ef0d53dc6e5a570ca105bcec.nq.gz",
+      "blobs": [
+        "blob/a16337c03f8bad0c723f8e562db367011ec168ed.nq.gz",
+        "blob/5a5af2e3b45348f52b3bcd0fc518fa7a4a7fa209.nq.gz",
+        "blob/bbc1b01356b1cb9f68a223b1de8057bfed67d2fb.nq.gz",
+        "blob/ebda7e60b0d7eaa1480b37dca62d7a89c58c4a35.nq.gz",
+        "blob/175487c1c6f6408509f15d930b9e48945125a75e.nq.gz",
+        "blob/cad43213602892aadc2290cca7afa74cc9f6af64.nq.gz",
+        "blob/483ea03b34dda0cb9664fdb02117ef01270fc238.nq.gz",
+        "blob/e70f9323753a352ad41c844eec62515629a76272.nq.gz",
+        "blob/2ca64957c7c6129b50bafc9ac8fa2f0b6cdf856f.nq.gz",
+        "blob/1cceeb4c8d1e0b0dd84a9f0d9a243e39f5168589.nq.gz",
+        "blob/fe7b383bf70bc914f2d8ba8d2d2773a76374fd37.nq.gz",
+        "blob/6ec85d6199ec784a893f389b0801457ab028bdcb.nq.gz",
+        "blob/f8e411f77120cee278818585d5adbf391733f562.nq.gz",
+        "blob/958f0ec3193ba5b6bace176c76b99fe302debdba.nq.gz",
+        "blob/69b9d26e4778603bca03307404f4e16cd1070185.nq.gz",
+        "blob/e929382bc0cc44a3e1b3b64442142672c0e07222.nq.gz",
+        "blob/94c0f8a0162a77104322217c58a0122c1f1dbb77.nq.gz",
+        "blob/667dd50f7e3ee797174f32a7925ecc192bded45e.nq.gz",
+        "blob/069f25f8fcc78331666d9c23ed515793c513af9f.nq.gz",
+        "blob/82a5ea45dd140fee6aa2007ab30a9be00fec9c47.nq.gz",
+        "blob/94f335d411850771974fdd49b509f0c600bae260.nq.gz",
+        "blob/271d459f13e8ebd9ab2e404c8613b54df3f6c95a.nq.gz",
+        "blob/c87f08956ad3f4fa3e5fe44d7f1c6428ab581c8f.nq.gz",
+        "blob/88e2cf7b5363a8a369d68cac9e5543ae97c39b7c.nq.gz",
+        "blob/e506efc05ceac755364d0d3b6ca5ae4754f515c2.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
